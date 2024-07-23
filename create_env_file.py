@@ -1,5 +1,4 @@
 # create_env_file.py
-# I need badge
 import sys
 
 def create_env_file(api_key):
